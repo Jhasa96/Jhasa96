@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Seasoned Data Analyst** with more than 6 y
 
 ## 👨‍💻 About Me
 
-- 💼 I have over **6 years of experience** in Data Analytics, including **campaign performance analysis**, **reporting**, and **forecasting**.
+- 💼 I have over **7 years of experience** in Data Analytics, including **campaign performance analysis**, **reporting**, and **forecasting**.
 - 🚀 I'm currently working with **Uber Advertisement** at iOPEX Technologies, focusing on **Eater's Insights** and campaign analysis.
 - 📊 I am highly skilled in **Presto SQL**, **Looker**, **Tableau**, **Power BI**, and **Excel** for data analysis and reporting.
 - 💡 I'm passionate about **Business Intelligence** and looking to grow my skills in **website building**.
